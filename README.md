@@ -10,3 +10,5 @@ model is specified using the name 'meta-llama/Meta-Llama-3-8B', and is instantia
 generate chatbot responses based on user prompts. The code invokes the generate_response function within a conditional block to start the chatbot interaction. This
 setup enables users to interact with the Meta-Llama language model-based chatbot via the web application, creating a conversational interface for users to engage
 with the language model.
+
+The code for this is provided in the Llama-3.py file.
