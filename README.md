@@ -1,6 +1,6 @@
 # Llama-3-loop
 
-I conducted extensive research in an attempt to gain access to the latest Llama-3 model, but unfortunately, I encountered difficulties in accessing it from the available sites. Consequently, I focused on
+I conducted extensive research in an attempt to gain access to the latest Llama-3 model on unsloth, Hugging face, Meta but unfortunately, I encountered difficulties in accessing it from the available sites. Consequently, I focused on
 formulating the logic required to create an infinite loop utilizing this model. Since pre-trained models are readily accessible on the web and can be fine-tuned according to specific datasets, my efforts were
 directed towards developing a loop that could facilitate continuous interaction with the Llama-3 model.
 
@@ -16,4 +16,13 @@ setup enables users to interact with the Meta-Llama language model-based chatbot
 with the language model.
 
 The code for this is provided in the Llama-3.py file.
+
+The websites I explored to get the free access to the Llama-3 is mentioned below:
+https://www.zeniteq.com/blog/5-free-websites-to-test-metas-llama-3-ai-models
+
+
+
+
+
+
 
