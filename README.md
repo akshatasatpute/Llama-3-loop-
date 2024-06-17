@@ -1,5 +1,9 @@
 # Llama-3-loop
 
+I conducted extensive research in an attempt to gain access to the latest Llama-3 model, but unfortunately, I encountered difficulties in accessing it from the available sites. Consequently, I focused on
+formulating the logic required to create an infinite loop utilizing this model. Since pre-trained models are readily accessible on the web and can be fine-tuned according to specific datasets, my efforts were
+directed towards developing a loop that could facilitate continuous interaction with the Llama-3 model.
+
 This code contains a Flask web application that utilizes the Transformers library from Hugging Face to create a chatbot using the Meta-Llama language model. The app
 allows users to interact with the chatbot by sending prompts and receiving responses. Additionally, the code includes functions to generate responses and manage the
 chatbot interaction using the Meta-Llama language model. This project could be shared as a Flask web application with a conversational interface powered by the Meta
@@ -13,6 +17,3 @@ with the language model.
 
 The code for this is provided in the Llama-3.py file.
 
-I conducted extensive research in an attempt to gain access to the latest Llama-3 model, but unfortunately, I encountered difficulties in accessing it from the available sites. Consequently, I focused on
-formulating the logic required to create an infinite loop utilizing this model. Since pre-trained models are readily accessible on the web and can be fine-tuned according to specific datasets, my efforts were
-directed towards developing a loop that could facilitate continuous interaction with the Llama-3 model.
